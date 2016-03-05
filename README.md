@@ -7,6 +7,10 @@ OPENSHIFT에서 Node.js 어플리케이션을 올리기 위한 기본 설정 예
 [MEAN 스택을 사용한 모던 웹 개발 입문][book] 의 ch5 내용을 기반으로 하고 있으며
 책의 예제를 보고 싶으신 분은 [https://github.com/dickeyxxx/mean-sample][book-sample] 을 참고해 주시면 되겠습니다.
 
+## 수정사항
+
+책의 내용을 따라 구조화까지 마친 프로젝트를 브랜치로 추가하였습니다. 좀 더 완성된 코드를 보고 싶으신 분은 브랜치를 `modularized` 로 바꾸시고 참고해 주시면 되겠습니다. 
+
 [post3]: http://chooco13.github.io/blog/2016/03/04/OpenShift%EC%97%90-Node.js-+-MongoDB-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%98%AC%EB%A6%AC%EA%B8%B0.html
 [book]: http://book.naver.com/bookdb/book_detail.nhn?bid=8779083
 [book-sample]: https://github.com/dickeyxxx/mean-sample
